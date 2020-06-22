@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "description": "A horizontal box plot showing median and lower and upper quartiles of the distribution of body mass of penguins. The tooltip shows the mean mass.",
+  "description": "A horizontal box plot showing median and lower and upper quartiles of the distribution of body mass of penguins. The tooltip shows the mass of the outliers.",
   "background": "white",
   "padding": 5,
   "width": 200,
